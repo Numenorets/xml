@@ -1,0 +1,45 @@
+<?xml version = "1.0"?>
+<class>
+   <Day name="Monday">
+      <FirstObject>Элективные курсы по физической культурест.пр. Зуева И.А.//Сп.зал //8.30-10.00</FirstObject>
+      <SecondObject>Ин. яз. для проф.общ. ст.пр.Бахарева О.В., ст.пр.Погосян Ж.Р., ст.пр.Руденко С.В.//525,423,433 //10.10-11.40</SecondObject>
+      <ThirdObject>Современные технологии интернет программирования
+ст.пр. Ефремов Р.В.//ВЦ //12.10-13.40</ThirdObject>
+   </Day>
+      <Day name="Tuesday">
+      <FirstObject>None//8.30-10.00</FirstObject>
+      <SecondObject>М/м технологии доц.Виштак Н.М.//ВЦ //10.10-11.40</SecondObject>
+      <ThirdObject>Моделирование процессов и систем доц.Очкур Г.В.//102   //12.10-13.40</ThirdObject>
+   </Day>
+    <Day name="Wednesday">
+      <FirstObject>Технологии создания web-ресурсов ст.пр. Мотков А.Г.//102//8.30 - 10.00
+</FirstObject>
+      <SecondObject>Технологии создания web-ресурсов
+ст.пр.Мотков А.Г.//102 //10.10 -11.40</SecondObject>
+      <SecondObject>Арх-ра инф.систем проф.Виштак О.В.//102 //10.10-11.40</SecondObject>
+   </Day>
+      <Day name="Thursday">
+      <FirstObject>None//8.30 -10.00</FirstObject>
+      <SecondObject>ФНиТ доц. Михайлова О.Н.//420 //10.10-11.40</SecondObject>
+      <SecondObject>ААрх-ра инф.систем ст.пр.Михеев И.В.
+//ВЦ //10.10-11.40</SecondObject>
+      <ThirdObject>Архитектура информационных систем
+ст.пр.Михеев И.В.//ВЦ //12.10-13.40</ThirdObject>
+   </Day>
+         <Day name="Friday">
+      <FirstObject>Современные технологии управения базами
+данных доц. Штырова И.А.//102//8.30 -10.00</FirstObject>
+      <SecondObject>Элективные курсы по физической культуре
+ст.пр. Зуева И.А.//сп.зал //10.10-11.40</SecondObject>
+      <SecondObject>Совр.технологии упр-я базами данных доц. Штырова И.А.//102 //10.10-11.40</SecondObject>
+   </Day>
+            <Day name="Saturday">
+      <FirstObject>Философия науки и техники доц. Михайлова О.Н.//
+https://meet.mephi.ru/onmikhajlova/9M367AUM  //8.30 -10.00</FirstObject>
+      <SecondObject>None//10.10-11.40</SecondObject>
+      <ThirdObject>Современные технологии ООП
+Бельмесов П.И.//ВЦ //12.10-13.40</ThirdObject>
+      <FourthObject>None//13.50-15.20</FourthObject>
+      <FourthObject>Совр.технологии ООП Бельмесов П.И.//ВЦ //13.50-15.20</FourthObject>
+   </Day>
+</class>
